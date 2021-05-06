@@ -36,7 +36,7 @@ sudo pip3 install Adafruit_BBIO
 
 cd /root
 wget https://www.tabspace.kr/oled/dogicapixel.ttf
-wget https://www.tabspace.kr/oled/ogpi_stats.py
+wget https://raw.githubusercontent.com/tirasol/RCU/main/oled/ogpi_stats.py
 
 crontab -e
 마지막줄에 아래 추가
